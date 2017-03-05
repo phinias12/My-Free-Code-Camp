@@ -1,0 +1,30 @@
+#title{
+  margin-top: 20%;
+  color: white;
+}
+
+body{
+  background-color: #4286f4;
+}
+
+#searchTerm{
+  margin-top: 50px;
+  border-radius: 8px;
+  border-color: #00a1ff;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.button{
+  margin: 10px;
+  padding-top: 10px;
+}
+
+#randomizer{
+  color: black;
+}
+
+#result{
+  background-color: white;
+  border-radius: 10px;
+}
