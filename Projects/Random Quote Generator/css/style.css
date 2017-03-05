@@ -1,0 +1,12 @@
+.container {
+  margin-top : 50px;
+  font-size : 20px;
+  letter-spacing: 2px;
+  line-height: 50px;
+  background-color: #edeeef;
+  border-radius: 25px
+}
+
+body{
+  background-color: #4acc37;
+}
